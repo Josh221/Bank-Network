@@ -211,6 +211,7 @@ Floor1-Management-SW
 
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/7f07ce18-e5fe-4d85-b5c2-d4117ec29e73" />
 
+
 <img width="273" alt="image" src="https://github.com/user-attachments/assets/1d8ccda3-c41c-4e41-8897-8a1c73421f49" />
 
 Floor1-Research-SW
@@ -349,8 +350,50 @@ Configuring inter VLAN routing:
 
 Floor1-L3SW
 
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/72c5cd6e-5827-4840-ae36-38511a077a5b" />
+
+
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/3315737b-cc95-456e-8752-5edf961190fd" />
+
 Floor2-L3SW
+
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/a34a8d4f-5658-4027-809e-e216e0b65fbe" />
+
+
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/bd85918e-e282-42eb-9851-6ed4db8fbffb" />
 
 Floor3-L3SW
 
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/3460a355-7e58-4a24-8ea5-5fca3e318f7b" />
+
 Floor4-L3SW
+
+<img width="333" alt="image" src="https://github.com/user-attachments/assets/e7c3927c-8543-44fa-be7f-64ed4587abad" />
+
+Checking if DHCP is successful:
+
+Management-PC
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/c8f109e3-55fd-4095-9714-7d84374fa964" />
+
+Marketing-PC
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/7ae50db2-3764-44fa-b3f5-2f518fcb0ede" />
+
+Guest-PC
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/57631ac9-36f3-4867-92f6-cc094acf8f28" />
+
+Configuring Access points:
+
+Research-AP
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/f06b3079-b55b-4b2d-8c3f-3b9e5c324935" />
+
+Research-Laptop
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/a1a90dc7-919e-4c51-a3d3-6890ca3b2704" />
+
+## Final Network in Packet Tracer
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/1d5d9c4a-4f1f-453f-99ea-012a79a623ea" />
