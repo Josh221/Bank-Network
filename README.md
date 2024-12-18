@@ -396,4 +396,5 @@ Research-Laptop
 
 ## Final Network in Packet Tracer
 
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/1d5d9c4a-4f1f-453f-99ea-012a79a623ea" />
+![image](https://github.com/user-attachments/assets/e13dafec-bedc-44a1-89ed-297cc078aea4)
+
